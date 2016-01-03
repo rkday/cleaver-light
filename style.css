@@ -176,9 +176,9 @@ body {
 
 /* Custom Slide Styles */
 #slide-1 {
-  color: #fafafa;
-  background: #222 url('fade.jpg') center center no-repeat;
-  background-size: cover;
+  //color: #fafafa;
+  //background: #222 url('fade.jpg') center center no-repeat;
+  //background-size: cover;
 }
 
 #slide-1 h1 {
@@ -374,7 +374,7 @@ hr {
 }
 
 pre {
-  font-size: 75%;
+  font-size: 110%;
   line-height: 1.3;
 }
 
@@ -421,7 +421,7 @@ pre code {
   font-family: 'Fira Mono';
   font-weight: 400;
   overflow-y: hidden;
-  background: #272822;
+  background: #fdf6e3;
 }
 
 pre .tag,
