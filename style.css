@@ -420,7 +420,7 @@ pre code {
   padding: .5em;
   font-family: 'Fira Mono';
   font-weight: 400;
-  //overflow-y: hidden;
+  overflow: scroll;
   background: #fdf6e3;
 }
 
