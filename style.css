@@ -410,9 +410,9 @@ table th {
 code {
   padding: .1em .35em;
   font-family: 'Fira Mono';
-  color: #fafafa;
-  background-color: #272822;
   border-radius: 3px;
+  background: #fdf6e3;
+  color: #75715e;
 }
 
 pre code {
